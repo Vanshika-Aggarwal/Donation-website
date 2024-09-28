@@ -29,7 +29,7 @@ An admin can add other admins, create donation posts, approve or deny donation r
 
 #### Live website: [https://donation-client-side.vercel.app/]
 
-#### Backend GitHub repository: [https://github.com/nabanichowdhury/donation-server-side]
+#### Backend GitHub repository: [https://github.com/Vanshika-Aggarwal/donation-sever-side]
 
 #### Backend Server: [https://donation-server-roan.vercel.app/]
 
